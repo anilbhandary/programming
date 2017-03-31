@@ -1,3 +1,6 @@
+################################################
+# https://www.codechef.com/problems/BRLADDER
+################################################
 def figure(a, b)
   if a > b
     temp = a
